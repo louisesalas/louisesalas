@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Louise Salas 👋</h1>
-<h3 align="center">WordPress Developer · Full Stack Developer · AI Automation Enthusiast</h3>
+<h3 align="center">Associate Senior Frontend Developer · WordPress Developer · AI Automation Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/louisesalas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=21759B&center=true&vCenter=true&width=640&lines=7%2B+years+building+high-performance+WordPress+sites.;Custom+themes%2C+plugins%2C+and+business+systems.;AI-powered+WordPress+development.;Laravel+%2B+Vue+applications.;n8n+automations+%26+agentic+engineering." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=21759B&center=true&vCenter=true&width=640&lines=9%2B+years+building+high-performance+websites.;WordPress%2C+Shopify%2C+and+Laravel+projects.;GSAP+animations+%26+interactive+frontends.;AI-powered+development+workflows.;n8n+automations+%26+agentic+engineering." alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,19 +20,17 @@
 
 ```php
 $louise = [
-  'role'     => 'WordPress Developer',
-  'experience' => '7+ years',
-  'focus'    => ['high-performance websites', 'custom themes & plugins', 'AI automation'],
-  'shipping' => ['docker-local-dev', 'icon-picker-icomoon-for-acf', 'retrostrip', 'wp-scraper'],
-  'workflow' => ['PHP', 'Laravel', 'Vue.js', 'Cursor', 'Claude'],
-  'motto'    => 'Build systems that scale — on the web and behind the scenes.',
+  'experience' => '9+ years',
+  'focus'      => ['WordPress', 'Shopify', 'Laravel', 'GSAP animations', 'AI automation'],
+  'workflow'   => ['PHP', 'Laravel', 'Vue.js', 'Cursor', 'Claude','Codex'],
 ];
 ```
 
-- 💻 **7+ years** building high-performance websites, custom themes, plugins, and business systems
-- 🧱 Deep expertise in **WordPress** — FSE, Gutenberg blocks, ACF, Carbon Fields, and WooCommerce
+- 💻 **7+ years** delivering high-quality, user-centric web solutions across WordPress, Shopify, and Laravel
+- 🧱 Deep expertise in **WordPress** — ACF, Elementor, Divi, Gutenberg blocks, and WooCommerce
+- 🎨 Frontend-focused with **GSAP** animations, responsive design, and performance optimization
 - 🤖 Passionate about **AI-powered development**, n8n automations, and agentic engineering
-- 🛠️ Full-stack capable with **Laravel + Vue** for apps beyond the CMS
+
 
 ---
 
@@ -43,7 +41,9 @@ $louise = [
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Backend & APIs**
 
@@ -54,7 +54,7 @@ $louise = [
 
 **CMS & WordPress**
 
-`Custom Themes` · `Full Site Editing (FSE)` · `Gutenberg Blocks` · `ACF Blocks` · `Carbon Fields` · `WooCommerce` · `WP REST API`
+`Custom Themes` · `Full Site Editing (FSE)` · `Gutenberg Blocks` · `ACF` · `Elementor` · `Divi` · `WooCommerce` · `Shopify` · `WP REST API`
 
 **Databases**
 
