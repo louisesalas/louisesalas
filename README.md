@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/louisesalas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=21759B&center=true&vCenter=true&width=640&lines=9%2B+years+building+high-performance+websites.;WordPress%2C+Shopify%2C+and+Laravel+projects.;GSAP+animations+%26+interactive+frontends.;AI-powered+development+workflows.;n8n+automations+%26+agentic+engineering." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=21759B&center=true&vCenter=true&width=640&lines=7%2B+years+building+high-performance+websites.;WordPress%2C+Shopify%2C+and+Laravel+projects.;GSAP+animations+%26+interactive+frontends.;AI-powered+development+workflows.;n8n+automations+%26+agentic+engineering." alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ```php
 $louise = [
-  'experience' => '9+ years',
+  'experience' => '7+ years',
   'focus'      => ['WordPress', 'Shopify', 'Laravel', 'GSAP animations', 'AI automation'],
   'workflow'   => ['PHP', 'Laravel', 'Vue.js', 'Cursor', 'Claude','Codex'],
 ];
