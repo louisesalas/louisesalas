@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://louisesalas.dev/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/louisesalas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/louisesalas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=louisesalas&style=for-the-badge&color=21759B&label=Profile+Views" />
@@ -76,46 +77,6 @@ $louise = [
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
-
-### 🚀 Featured Projects
-
-#### 🐳 [docker-local-dev](https://github.com/louisesalas/docker-local-dev) — WordPress Local Dev Environment
-> Docker-based local stack with Traefik, Nginx, PHP-FPM, MySQL, phpMyAdmin, and Mailpit.
-
-Production-like WordPress development environment out of the box — routing, mail catching, and database tooling without the manual setup headache.
-
-`Docker` · `Traefik` · `Nginx` · `PHP-FPM` · `MySQL` · `Makefile`
-
-#### 🎨 [icon-picker-icomoon-for-acf](https://github.com/louisesalas/icon-picker-icomoon-for-acf) — IcoMoon Icon Picker for ACF
-> Upload your IcoMoon `selection.json` or SVG sprite and pick icons directly in Advanced Custom Fields.
-
-Bridges IcoMoon icon sets into the WordPress admin — a clean DX upgrade for theme and block developers who live in ACF.
-
-`PHP` · `WordPress` · `ACF` · `IcoMoon`
-
-#### 📸 [retrostrip](https://github.com/louisesalas/retrostrip) — Retro Photobooth App
-> A modern photobooth with retro filters, film grain effects, and instant downloads.
-
-Built for events and experiences — vintage aesthetics with a polished, instant-share workflow.
-
-`JavaScript` · `Canvas` · `Web APIs`
-
-#### 🔍 [wp-scraper](https://github.com/louisesalas/wp-scraper) — WordPress Multi-Link Scraper
-> WordPress scraper with multi-link scrape functionality.
-
-Batch content extraction for WordPress workflows — scrape multiple sources in one pass.
-
-`PHP` · `WordPress` · `Web Scraping`
-
-#### 😀 [facercognition](https://github.com/louisesalas/facercognition) — Face Recognition API Integration
-> Face recognition built in PHP using the Kairos API.
-
-Early integration work connecting PHP backends to computer-vision APIs for identity and recognition use cases.
-
-`PHP` · `Kairos API` · `Hack`
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -137,7 +98,7 @@ Early integration work connecting PHP backends to computer-vision APIs for ident
 ### 🌱 Currently Learning
 
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic Engineering](https://img.shields.io/badge/Agentic_Engineering-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Agentic Engineering](https://img.shields.io/badge/Agentic_Engineering-21759B?style=for-the-badge&logo=cursor&logoColor=white)
 ![Gutenberg Blocks](https://img.shields.io/badge/Gutenberg_Blocks-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -145,10 +106,7 @@ Early integration work connecting PHP backends to computer-vision APIs for ident
 ---
 
 <p align="center">
-  <em>"Build systems that scale — on the web and behind the scenes."</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/louisesalas"><img src="https://img.shields.io/badge/See_my_work-21759B?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://louisesalas.dev/"><img src="https://img.shields.io/badge/Visit_my_portfolio-21759B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/louisesalas"><img src="https://img.shields.io/badge/See_my_work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/louisesalas"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
